@@ -1,6 +1,6 @@
-# 📚 AutoQuiz
+# 📚 QuizMate
 
-AutoQuiz is a web application that allows users to upload documents or notes and automatically generate quizzes from the extracted text using AI. Users can view their quiz history, track correct and incorrect answers, and retake quizzes to improve understanding.
+QuizMate is a web application that allows users to upload documents or notes and automatically generate quizzes from the extracted text using AI. Users can view their quiz history, track correct and incorrect answers, and retake quizzes to improve understanding.
 
 ## 🚀 Features
 
