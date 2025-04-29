@@ -16,9 +16,4 @@ QuizMate is a web application that allows users to upload documents or notes and
 - `frontend/`: (Optional) React or other frontend framework
 - `media/`: User-uploaded files and profile pictures
 
-## ⚙️ Setup Instructions
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/autoquiz.git
-   cd autoquiz
